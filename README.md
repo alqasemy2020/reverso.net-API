@@ -1,5 +1,5 @@
 # reverso.net-API
-A manual API for reverso.net translations. ready to deploy into heroku webservices.
+An offical API for reverso.net translations. ready to deploy into heroku webservices.
 
 # Live Test
 go to https://reverso-api.herokuapp.com/translate/?source=en&lang=ar&word=historical<br /> 
