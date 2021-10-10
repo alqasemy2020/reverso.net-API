@@ -9,9 +9,9 @@ go to https://reverso-api.herokuapp.com/translate/?source=en&lang=ar&word=histor
 
 # Usage
 the only thing to do is to install requirements typing:<br /> 
-`pip install requirements.txt`<br /> 
+`pip install -r requirements.txt`<br /> 
 <br />
 <br /> 
 <br /> 
 <br /> 
-this API unfortunately can't translate more than one word. 
+Unfortunately this API can't translate more than one word. 
